@@ -54,7 +54,7 @@ Creo que la transformación digital va más allá de implementar herramientas; c
 - Salesforce Certified Marketing Cloud Engagement Administrator (2022)
 - Salesforce Certified Data 360 Consultant (2022)
 - Salesforce Certified Marketing Cloud Engagement Consultant (2023)
-- Salesforce Certified AI Associate (2024 - Retired)
+- Salesforce Certified AI Associate (2024)
 
 ---
 
